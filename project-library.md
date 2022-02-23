@@ -6,6 +6,77 @@ description: Welcome to my Project Library!
 
 ## Hackathons
 * * *
+
+### MLH - MakeUofT 2022 - CarJam
+
+![carjam_frontend](./assets/Project_Pictures/carjam_frontend.png)
+
+[Devpost Submission](https://devpost.com/software/carjam)
+
+#### What is CarJam?
+
+CarJam is a way to enjoy music on the road without the stress of creating a playlist. 
+
+Our web app listens to your ambient environment and suggests a song to play based on the mood.  
+
+For example, maybe you're carpooling with 6 people and the car is *positively vibing*. Our app will suggest an upbeat, happy song to play. (we query the Spotify API with "liveness" and "energy" parameters).  
+
+On the flipside, let's say you just had a bad day and you're venting with your coworker on the way home. CarJam will suggest a downbeat, melancholic or sad song to play.  
+
+By listening to your ambient environment, CarJam matches your energy while introducing you to new music.  
+#### Technologies 
+Backend:   
+- Node.js  
+Frontend:  
+- React  
+- [React-mic](https://www.npmjs.com/package/react-mic)  
+
+APIs: 
+- [GCS Text-to-Speech](https://cloud.google.com/text-to-speech)  
+- [GCS Natural Language - Sentiment Analysis](https://cloud.google.com/natural-language/docs/analyzing-sentiment)   
+- [Spotify](https://developer.spotify.com/documentation/web-api/), ["Get Recommendations" Endpoint](https://developer.spotify.com/console/get-recommendations/)  
+  
+HW:  
+- Rasberry Pi 3B+, Mic, Speaker  
+
+#### Useful Resources I Found
+- [Fetching blobs](https://stackoverflow.com/questions/11876175/how-to-get-a-file-or-blob-from-an-object-url)  
+- [Sending blobs to express](https://developers.deepgram.com/blog/2021/11/sending-audio-files-to-expressjs-server/)  
+- [Multer + Fetch with Blobs](https://stackoverflow.com/questions/39677993/send-blob-data-to-node-using-fetch-multer-express)  
+- [Blobs - General](https://developer.mozilla.org/en-US/docs/Web/API/Blob)  
+- [Audio - Unused](https://developers.google.com/web/fundamentals/media/recording-audio)  
+#### How does it work?
+
+CarJam was built as a React app hosted on a Rasberry Pi 3B+. A local Node.js server was hosted on our network.   
+
+My original flowchart:  
+
+Pi Mic → Frontend → encode/send audio to backend → backend uses audio to make API calls for sentiment analysis (GCS) → this data should be cached  
+
+Frontend requests a new song to play → backend uses last-cached sentiment data to make a spotify API call to get a song → backend sends this song url to the frontend → frontend updates the “next up” song.  
+
+#### Challenges I faced
+
+Pending  
+
+#### What would I change for next time?
+
+##### Efficiency and Performance
+- Chunk audio data. Potentially communicate with [websockets](https://medium.com/google-cloud/building-a-client-side-web-app-which-streams-audio-from-a-browser-microphone-to-a-server-part-ii-df20ddb47d4e)  
+- Cache audio data on AWS S3 or another cloud storage service.  
+
+##### Metadata
+- Extract more metadata from audio data to determine music to play, such as:   
+  - dB level  
+  - number of unique voices  
+  - prevalent tones of voice  
+- Extract other environmental metadata:  
+  - Speed of car  
+  - Date and time, e.g. Day/night time  
+
+##### Inference
+- Avoid implicitly connecting the Google Sentiment Analysis directly to Spotify API query parameters. Instead, we could train an ML model to decide which parameters to "connect" together.
+
 ### MLH - MakeUofT 2021 - wavechord
 
 [Devpost Submission](https://devpost.com/software/wavechord)  
