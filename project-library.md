@@ -59,7 +59,7 @@ Frontend requests a new song to play → backend uses last-cached sentiment data
 
 #### Challenges I faced
 
-Pending  
+- How to POST audio blobs
 
 #### What would I change for next time?
 
