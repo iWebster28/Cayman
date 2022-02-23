@@ -26,7 +26,8 @@ On the flipside, let's say you just had a bad day and you're venting with your c
 By listening to your ambient environment, CarJam matches your energy while introducing you to new music.  
 #### Technologies 
 Backend:   
-- Node.js  
+- Node.js 
+   
 Frontend:  
 - React  
 - [React-mic](https://www.npmjs.com/package/react-mic)  
@@ -45,6 +46,7 @@ HW:
 - [Multer + Fetch with Blobs](https://stackoverflow.com/questions/39677993/send-blob-data-to-node-using-fetch-multer-express)  
 - [Blobs - General](https://developer.mozilla.org/en-US/docs/Web/API/Blob)  
 - [Audio - Unused](https://developers.google.com/web/fundamentals/media/recording-audio)  
+
 #### How does it work?
 
 CarJam was built as a React app hosted on a Rasberry Pi 3B+. A local Node.js server was hosted on our network.   
