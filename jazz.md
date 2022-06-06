@@ -111,7 +111,7 @@ Below are some sessions with the talented saxophonist Noah Abrahamse. My Little 
 <iframe class="center" src="https://open.spotify.com/embed/playlist/1jYSNDL0yn9MaL2TVecgXc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 <br>
 
-Here's our Christmas album from December 2021, orignally recorded in November at Humber College.  
+Here's our Christmas album from December 2021, orignally recorded in November at Humber College. You can purchase a CD here! [Mumbo Jumbo Quintet Shop](https://prod.d3aa5dct21g4ov.amplifyapp.com/)
 
 <iframe class="center" src="https://open.spotify.com/embed/album/0l3BhFtn2bqMubX1O7yP5n" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
