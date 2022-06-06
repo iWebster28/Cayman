@@ -94,6 +94,10 @@ Below are some sessions with the talented saxophonist Noah Abrahamse. My Little 
 
 <iframe class="center" src="https://open.spotify.com/embed/playlist/1jYSNDL0yn9MaL2TVecgXc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+Here's our Christmas album from December 2021, orignally recorded in November at Humber College.  
+
+<iframe class="center" src="https://open.spotify.com/embed/album/0l3BhFtn2bqMubX1O7yP5n" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ## SoundCloud
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/784330816&color=%230d00ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/iwebsterproductions" title="iWebsterProductions" target="_blank" style="color: #cccccc; text-decoration: none;">iWebsterProductions</a> · <a href="https://soundcloud.com/iwebsterproductions/hey-its-okay-to-start-over-again" title="Hey, It's Okay To Start Over Again" target="_blank" style="color: #cccccc; text-decoration: none;">Hey, It's Okay To Start Over Again</a></div>
