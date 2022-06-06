@@ -83,16 +83,17 @@ In second year, I explored playing more RnB, Funk and Soul with the Skule™ Jaz
 Now, in my third year, I've taken directorship of the Skule™ Jazz Combo, and I am taking a Music Performance Minor in Jazz Piano. I also manage our official website, [jazz.skule.ca](https://jazz.skule.ca/), check it out! 
 
 ## UofT Skule Jazz Combo Playlist  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5hMd-JKboPt0RNrGR1JwC-HmvOKekvCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/videoseries?list=PL5hMd-JKboPt0RNrGR1JwC-HmvOKekvCq' frameborder='0' allowfullscreen></iframe></div>
 
 ## Mumbo Jumbo Combo Playlist  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLoFx5CKfSyE8I931RlWeRAMr1J_kGsAQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/videoseries?list=PLoFx5CKfSyE8I931RlWeRAMr1J_kGsAQO' frameborder='0' allowfullscreen></iframe></div>
 
 ## TUJF 2021 Submission Video 1
-<iframe src='https://www.youtube.com/embed/yLn0J1KKIwg' frameborder='0' allowfullscreen></iframe>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/yLn0J1KKIwg' frameborder='0' allowfullscreen></iframe></div>
 
 ## TUJF 2021 Submission Video 2
-<iframe src='https://www.youtube.com/embed/cVd015g-_U8' frameborder='0' allowfullscreen></iframe>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/cVd015g-_U8' frameborder='0' allowfullscreen></iframe></div>
 
 ## Other Projects
 You can checkout some of my past projects below!  
@@ -106,7 +107,7 @@ Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)
 Below are some sessions with the talented saxophonist Noah Abrahamse. My Little Suede Shoes and Blue Bossa always remind me of the early days playing at the Peterborough and Lakefield Farmer's markets - there's something special about playing jazz under the morning sun with a cool breeze. Conversation Among the Ruins was recorded impromptu after seeing the piece once before the session! Check out this [link](https://www.youtube.com/watch?v=a89HEvzRDOQ) for a cover of Beauty and the Beast theme that Noah and I did in the Summer of 2020!
 
 <iframe class="center" src="https://open.spotify.com/embed/playlist/1jYSNDL0yn9MaL2TVecgXc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-<br></br>
+<br>
 
 Here's our Christmas album from December 2021, orignally recorded in November at Humber College.  
 
