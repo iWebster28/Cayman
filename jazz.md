@@ -106,8 +106,6 @@ Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)
 
 Below are some sessions with the talented saxophonist Noah Abrahamse. My Little Suede Shoes and Blue Bossa always remind me of the early days playing at the Peterborough and Lakefield Farmer's markets - there's something special about playing jazz under the morning sun with a cool breeze. Conversation Among the Ruins was recorded impromptu after seeing the piece once before the session! Check out this [link](https://www.youtube.com/watch?v=a89HEvzRDOQ) for a cover of Beauty and the Beast theme that Noah and I did in the Summer of 2020!
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/a89HEvzRDOQ' frameborder='0' allowfullscreen></iframe></div>
-
 <iframe class="center" src="https://open.spotify.com/embed/playlist/1jYSNDL0yn9MaL2TVecgXc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 <br>
 
